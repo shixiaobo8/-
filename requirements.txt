@@ -1,0 +1,11 @@
+django == 1.9
+DjangoUeditor
+MySQL-python==1.2.5
+configparser
+python-ldap
+django-auth-ldap
+djangorestframework==3.0.3
+markdown
+django-filter
+xlrd
+xlwt
