@@ -1,0 +1,14 @@
+[2018-05-29 17:09:46,483][Dummy-1:12852][task_id:django.db.backends][utils.py:89] [DEBUG]- (0.003) SET SQL_AUTO_IS_NULL = 0; args=None
+[2018-05-29 17:09:49,871][Dummy-1:12852][task_id:django.db.backends][utils.py:89] [DEBUG]- (0.001) SET SQL_AUTO_IS_NULL = 0; args=None
+[2018-05-29 17:09:50,043][Dummy-1:12852][task_id:django.db.backends][utils.py:89] [DEBUG]- (0.170) SHOW FULL TABLES; args=None
+[2018-05-29 17:09:50,134][Dummy-1:12852][task_id:django.db.backends][utils.py:89] [DEBUG]- (0.055) SELECT `django_migrations`.`app`, `django_migrations`.`name` FROM `django_migrations`; args=()
+[2018-05-29 17:12:03,898][Dummy-1:12352][task_id:django.db.backends][utils.py:89] [DEBUG]- (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[2018-05-29 17:12:04,137][Dummy-1:12352][task_id:django.db.backends][utils.py:89] [DEBUG]- (0.001) SET SQL_AUTO_IS_NULL = 0; args=None
+[2018-05-29 17:12:04,140][Dummy-1:12352][task_id:django.db.backends][utils.py:89] [DEBUG]- (0.001) SHOW FULL TABLES; args=None
+[2018-05-29 17:12:04,147][Dummy-1:12352][task_id:django.db.backends][utils.py:89] [DEBUG]- (0.002) SELECT `django_migrations`.`app`, `django_migrations`.`name` FROM `django_migrations`; args=()
+[2018-05-29 17:12:12,178][Thread-2:2896][task_id:django.db.backends][utils.py:89] [DEBUG]- (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[2018-05-29 17:12:12,181][Thread-2:2896][task_id:django.db.backends][utils.py:89] [DEBUG]- (0.001) SELECT `index_nav`.`id`, `index_nav`.`firstNavName`, `index_nav`.`firstNavUrl`, `index_nav`.`firstNavIconName`, `index_nav`.`secondNavName`, `index_nav`.`secondNavUrl`, `index_nav`.`thirdNavName`, `index_nav`.`thirdNavUrl` FROM `index_nav`; args=()
+[2018-05-29 17:12:42,168][Thread-60:4656][task_id:django.db.backends][utils.py:89] [DEBUG]- (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[2018-05-29 17:12:42,171][Thread-60:4656][task_id:django.db.backends][utils.py:89] [DEBUG]- (0.001) SELECT `index_nav`.`id`, `index_nav`.`firstNavName`, `index_nav`.`firstNavUrl`, `index_nav`.`firstNavIconName`, `index_nav`.`secondNavName`, `index_nav`.`secondNavUrl`, `index_nav`.`thirdNavName`, `index_nav`.`thirdNavUrl` FROM `index_nav`; args=()
+[2018-05-29 17:16:36,957][Thread-84:6216][task_id:django.db.backends][utils.py:89] [DEBUG]- (0.001) SET SQL_AUTO_IS_NULL = 0; args=None
+[2018-05-29 17:16:36,959][Thread-84:6216][task_id:django.db.backends][utils.py:89] [DEBUG]- (0.001) SELECT `index_nav`.`id`, `index_nav`.`firstNavName`, `index_nav`.`firstNavUrl`, `index_nav`.`firstNavIconName`, `index_nav`.`secondNavName`, `index_nav`.`secondNavUrl`, `index_nav`.`thirdNavName`, `index_nav`.`thirdNavUrl` FROM `index_nav`; args=()

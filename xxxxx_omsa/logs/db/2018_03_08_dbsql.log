@@ -1,0 +1,44 @@
+[2018-03-08 15:51:43,903][Dummy-1:20796][task_id:django.db.backends][utils.py:89] [DEBUG]- (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[2018-03-08 15:51:43,938][Dummy-1:20796][task_id:django.db.backends][utils.py:89] [DEBUG]- (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[2018-03-08 15:51:43,940][Dummy-1:20796][task_id:django.db.backends][utils.py:89] [DEBUG]- (0.000) SHOW FULL TABLES; args=None
+[2018-03-08 15:51:43,943][Dummy-1:20796][task_id:django.db.backends][utils.py:89] [DEBUG]- (0.000) SELECT `django_migrations`.`app`, `django_migrations`.`name` FROM `django_migrations`; args=()
+[2018-03-08 17:00:37,552][Thread-2:8664][task_id:django.db.backends][utils.py:89] [DEBUG]- (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[2018-03-08 17:00:37,553][Thread-2:8664][task_id:django.db.backends][utils.py:89] [DEBUG]- (0.000) SELECT `index_nav`.`id`, `index_nav`.`firstNavName`, `index_nav`.`firstNavUrl`, `index_nav`.`firstNavIconName`, `index_nav`.`secondNavName`, `index_nav`.`secondNavUrl`, `index_nav`.`thirdNavName`, `index_nav`.`thirdNavUrl` FROM `index_nav`; args=()
+[2018-03-08 17:00:37,802][Thread-3:7496][task_id:django.db.backends][utils.py:89] [DEBUG]- (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[2018-03-08 17:00:37,803][Thread-3:7496][task_id:django.db.backends][utils.py:89] [DEBUG]- (0.002) select * from `wo_jenkins_services` where `is_del`=0;; args=None
+[2018-03-08 17:00:46,874][Thread-4:20436][task_id:django.db.backends][utils.py:89] [DEBUG]- (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[2018-03-08 17:00:46,875][Thread-4:20436][task_id:django.db.backends][utils.py:89] [DEBUG]- (0.002) select * from `wo_jenkins_services` where `is_del`=0;; args=None
+[2018-03-08 17:00:47,440][Thread-5:16140][task_id:django.db.backends][utils.py:89] [DEBUG]- (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[2018-03-08 17:00:47,443][Thread-5:16140][task_id:django.db.backends][utils.py:89] [DEBUG]- (0.002) select * from `wo_jenkins_services` where `is_del`=0;; args=None
+[2018-03-08 17:00:48,654][Thread-8:7348][task_id:django.db.backends][utils.py:89] [DEBUG]- (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[2018-03-08 17:00:48,657][Thread-8:7348][task_id:django.db.backends][utils.py:89] [DEBUG]- (0.002) select * from `wo_jenkins_services` where `is_del`=0;; args=None
+[2018-03-08 17:00:49,207][Thread-9:18088][task_id:django.db.backends][utils.py:89] [DEBUG]- (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[2018-03-08 17:00:49,210][Thread-9:18088][task_id:django.db.backends][utils.py:89] [DEBUG]- (0.002) select * from `wo_jenkins_services` where `is_del`=0;; args=None
+[2018-03-08 17:00:49,947][Thread-10:15084][task_id:django.db.backends][utils.py:89] [DEBUG]- (0.001) SET SQL_AUTO_IS_NULL = 0; args=None
+[2018-03-08 17:00:49,953][Thread-10:15084][task_id:django.db.backends][utils.py:89] [DEBUG]- (0.007) select * from `wo_jenkins_services` where `is_del`=0;; args=None
+[2018-03-08 17:00:50,528][Thread-11:15276][task_id:django.db.backends][utils.py:89] [DEBUG]- (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[2018-03-08 17:00:50,529][Thread-11:15276][task_id:django.db.backends][utils.py:89] [DEBUG]- (0.002) select * from `wo_jenkins_services` where `is_del`=0;; args=None
+[2018-03-08 17:00:51,428][Thread-12:19508][task_id:django.db.backends][utils.py:89] [DEBUG]- (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[2018-03-08 17:00:51,431][Thread-12:19508][task_id:django.db.backends][utils.py:89] [DEBUG]- (0.003) select * from `wo_jenkins_services` where `is_del`=0;; args=None
+[2018-03-08 17:00:52,536][Thread-13:16736][task_id:django.db.backends][utils.py:89] [DEBUG]- (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[2018-03-08 17:00:52,538][Thread-13:16736][task_id:django.db.backends][utils.py:89] [DEBUG]- (0.002) select * from `wo_jenkins_services` where `is_del`=0;; args=None
+[2018-03-08 17:00:54,005][Thread-14:4732][task_id:django.db.backends][utils.py:89] [DEBUG]- (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[2018-03-08 17:00:54,006][Thread-14:4732][task_id:django.db.backends][utils.py:89] [DEBUG]- (0.002) select * from `wo_jenkins_services` where `is_del`=0;; args=None
+[2018-03-08 17:00:54,368][Thread-15:17088][task_id:django.db.backends][utils.py:89] [DEBUG]- (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[2018-03-08 17:00:54,368][Thread-15:17088][task_id:django.db.backends][utils.py:89] [DEBUG]- (0.001) select * from `wo_jenkins_services` where `is_del`=0;; args=None
+[2018-03-08 20:18:29,197][Dummy-1:20840][task_id:django.db.backends][utils.py:89] [DEBUG]- (0.001) SET SQL_AUTO_IS_NULL = 0; args=None
+[2018-03-08 20:18:29,239][Dummy-1:20840][task_id:django.db.backends][utils.py:89] [DEBUG]- (0.001) SET SQL_AUTO_IS_NULL = 0; args=None
+[2018-03-08 20:18:29,240][Dummy-1:20840][task_id:django.db.backends][utils.py:89] [DEBUG]- (0.001) SHOW FULL TABLES; args=None
+[2018-03-08 20:18:29,243][Dummy-1:20840][task_id:django.db.backends][utils.py:89] [DEBUG]- (0.000) SELECT `django_migrations`.`app`, `django_migrations`.`name` FROM `django_migrations`; args=()
+[2018-03-08 20:26:42,219][Dummy-1:4888][task_id:django.db.backends][utils.py:89] [DEBUG]- (0.001) SET SQL_AUTO_IS_NULL = 0; args=None
+[2018-03-08 20:26:42,259][Dummy-1:4888][task_id:django.db.backends][utils.py:89] [DEBUG]- (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[2018-03-08 20:26:42,259][Dummy-1:4888][task_id:django.db.backends][utils.py:89] [DEBUG]- (0.001) SHOW FULL TABLES; args=None
+[2018-03-08 20:26:42,262][Dummy-1:4888][task_id:django.db.backends][utils.py:89] [DEBUG]- (0.000) SELECT `django_migrations`.`app`, `django_migrations`.`name` FROM `django_migrations`; args=()
+[2018-03-08 21:07:55,007][Dummy-1:12472][task_id:django.db.backends][utils.py:89] [DEBUG]- (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[2018-03-08 21:07:55,046][Dummy-1:12472][task_id:django.db.backends][utils.py:89] [DEBUG]- (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[2018-03-08 21:07:55,048][Dummy-1:12472][task_id:django.db.backends][utils.py:89] [DEBUG]- (0.001) SHOW FULL TABLES; args=None
+[2018-03-08 21:07:55,051][Dummy-1:12472][task_id:django.db.backends][utils.py:89] [DEBUG]- (0.000) SELECT `django_migrations`.`app`, `django_migrations`.`name` FROM `django_migrations`; args=()
+[2018-03-08 21:25:51,178][Dummy-1:16468][task_id:django.db.backends][utils.py:89] [DEBUG]- (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[2018-03-08 21:25:51,220][Dummy-1:16468][task_id:django.db.backends][utils.py:89] [DEBUG]- (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[2018-03-08 21:25:51,220][Dummy-1:16468][task_id:django.db.backends][utils.py:89] [DEBUG]- (0.000) SHOW FULL TABLES; args=None
+[2018-03-08 21:25:51,223][Dummy-1:16468][task_id:django.db.backends][utils.py:89] [DEBUG]- (0.001) SELECT `django_migrations`.`app`, `django_migrations`.`name` FROM `django_migrations`; args=()
